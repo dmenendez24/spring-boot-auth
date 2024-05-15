@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee959202-983b-43bc-8d52-241f4f7cc65e" name="Changes" comment="" />
+    <list default="true" id="ee959202-983b-43bc-8d52-241f4f7cc65e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/AuthApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/configs/ApplicationConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/configs/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/configs/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/controllers/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/dtos/LoginUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/dtos/RegisterUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/responses/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/services/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/services/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/java/com/tericcabrel/authapi/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-jwt-auth/src/test/java/com/tericcabrel/authapi/AuthApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/AuthApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/configs/ApplicationConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/configs/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/configs/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/controllers/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/dtos/LoginUserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/dtos/RegisterUserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/exceptions/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/responses/LoginResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/services/AuthenticationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/services/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tericcabrel/authapi/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tericcabrel/authapi/AuthApiApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +73,10 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/dmenendez/Repos/spring-boot-auth&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -59,7 +108,11 @@
       <updated>1715790874495</updated>
       <workItem from="1715790875537" duration="250000" />
       <workItem from="1715791134551" duration="8000" />
-      <workItem from="1715791151408" duration="19000" />
+      <workItem from="1715791151408" duration="399000" />
+      <workItem from="1715792310841" duration="45000" />
+      <workItem from="1715792358997" duration="7000" />
+      <workItem from="1715792416978" duration="14000" />
+      <workItem from="1715792502103" duration="43000" />
     </task>
     <servers />
   </component>
